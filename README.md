@@ -12,7 +12,7 @@
 * Built interactive dashboard with KPIs and filters
 * Tools: Power BI, Excel
 
-🔗 View Project: https://github.com/YOUR-USERNAME/healthcare-client-dashboard
+🔗 View Project:
 
 ---
 
@@ -32,7 +32,7 @@
 * Identified key patterns for targeting
 * Tools: KNIME
 
-🔗 View Project: https://github.com/YOUR-USERNAME/customer-segmentation-knime
+🔗 View Project:
 
 ---
 
