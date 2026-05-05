@@ -8,11 +8,11 @@
 
 ### 🏥 Healthcare Client Analytics Dashboard
 
-* Analyzed client service data to improve satisfaction and response time
+* Analyzed client service data to improve performance and response time
 * Built interactive dashboard with KPIs and filters
-* Tools: Power BI, Excel
+* Tools: Power BI, Python
 
-🔗 View Project:
+🔗 View Project: [Project Link](https://github.com/Aziz-25-TR/Healthcare-Client-Analytics-Dashboard/tree/main)
 
 ---
 
