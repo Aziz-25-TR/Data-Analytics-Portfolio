@@ -16,13 +16,13 @@
 
 ---
 
-### 📈 Sales Analysis Dashboard (Excel)
+### 📈 Sales Performance & Shipping Analysis Dashboard (Excel)
 
-* Analyzed sales trends and performance
-* Built KPIs (Revenue, Growth, Top Products)
+* Analyzes salesperson performance and shipping methods
+* Built KPIs (Total Sales, Average Sales per Transaction, Number of Unique Customers)
 * Tools: Excel
 
-🔗 View Project: https://github.com/YOUR-USERNAME/sales-analysis-excel
+🔗 View Project: [Project Link](https://github.com/Aziz-25-TR/Sales-Performance-Shipping-Analysis-Dashboard-Excel-)
 
 ---
 
