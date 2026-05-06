@@ -26,13 +26,13 @@
 
 ---
 
-### 🧠 Customer Segmentation (KNIME)
+### 🧠 Customer Churn Prediction (KNIME)
 
-* Segmented customers based on behavior
-* Identified key patterns for targeting
-* Tools: KNIME
+* Predict customer churn behavior
+* Compare performance between different machine learning models
+* Evaluate model accuracy and reliability
 
-🔗 View Project:
+🔗 View Project: [Project Link](https://github.com/Aziz-25-TR/Customer-Churn-Prediction/tree/main)
 
 ---
 
@@ -40,14 +40,9 @@
 
 * Data Analysis
 * Data Cleaning
-* Data Visualization
-* Dashboard Development
+* Data Science
 
 Tools:
-
-* Excel
-* SQL
-* Power BI
 * KNIME
 
 ---
