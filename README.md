@@ -47,6 +47,21 @@ Tools:
 
 ---
 
+## 🌐 WordPress Website Development  
+
+Added a WordPress website development project showcasing website setup, customization, page design, plugin management, and user experience improvements.
+
+The project demonstrates practical experience in building and managing a complete website using WordPress, including layout customization and content organization.
+
+This project highlights web development, problem-solving, and CMS management skills.
+
+Tools:
+* Wordpress
+
+🔗 View Project: [Project Link](https://github.com/Aziz-25-TR/wordpress-academy-website/tree/main)
+
+---
+
 ## 🎯 Current Focus
 
 * Building advanced dashboards
