@@ -6,6 +6,7 @@
 
 ## 🚀 Featured Projects
 
+
 ### 🏥 Healthcare Client Analytics Dashboard
 
 * Analyzed client service data to improve performance and response time
@@ -15,6 +16,7 @@
 🔗 View Project: [Project Link](https://github.com/Aziz-25-TR/Healthcare-Client-Analytics-Dashboard/tree/main)
 
 ---
+
 
 ### 📈 Sales Performance & Shipping Analysis Dashboard (Excel)
 
@@ -26,17 +28,14 @@
 
 ---
 
+
 ### 🧠 Customer Churn Prediction (KNIME)
 
 * Predict customer churn behavior
 * Compare performance between different machine learning models
 * Evaluate model accuracy and reliability
 
-🔗 View Project: [Project Link](https://github.com/Aziz-25-TR/Customer-Churn-Prediction/tree/main)
-
----
-
-## 🛠️ Tools & Skills
+🛠️ Tools & Skills
 
 * Data Analysis
 * Data Cleaning
@@ -44,8 +43,28 @@
 
 Tools:
 * KNIME
+  
+🔗 View Project: [Project Link](https://github.com/Aziz-25-TR/Customer-Churn-Prediction/tree/main)
 
 ---
+
+
+### 🔗 Blockchain-Based Student Records Management System
+
+Developed a blockchain-powered system to secure academic records using SHA-256 hashing, Merkle Trees, tampering detection, audit logs, and blockchain validation. The project processes 1,500 student records and demonstrates practical applications of blockchain technology for data integrity and security.
+
+🛠️ Technologies Used
+Python
+Blockchain Concepts
+SHA-256
+Merkle Tree
+CSV Processing
+Interactive Web Interface
+
+🔗 View Project: [Project Link](https://github.com/Aziz-25-TR/wordpress-academy-website/tree/main](https://github.com/Aziz-25-TR/Blockchain-Based-Student-Records-Management-System/tree/main )
+
+---
+
 
 ## 🌐 WordPress Website Development  
 
